@@ -196,11 +196,9 @@ Sugestão de avaliação por exercício:
 
 ---
 
-## 👨‍🏫 Observação ao professor
+## 👨‍🏫 Observação do professor
 
 Este material foi estruturado para facilitar tanto:
 
 - a **demonstração em aula** (com `App.java`), quanto
 - o **estudo individual** (execução por arquivo de exercício).
-
-Se desejar, uma próxima evolução natural é reorganizar o projeto em camadas (`model`, `controller`, `view`) mantendo os mesmos algoritmos.
